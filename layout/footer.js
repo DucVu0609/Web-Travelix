@@ -107,25 +107,25 @@ footer.innerHTML = `
                     <div class="container__contact__info--img">
                       <img src="assets/images/placeholder.svg" alt="" />
                     </div>
-                    <span>316/1A Huynh Tan Phat, Quan 7</span>
+                    
                   </div>
                   <div class="container__contact__info">
                     <div class="container__contact__info--img">
                       <img src="assets/images/message.svg" alt="" />
                     </div>
-                    <span>+84 945 999 917</span>
+                    <span>+84 961 416 773</span>
                   </div>
                   <div class="container__contact__info">
                     <div class="container__contact__info--img">
                       <img src="assets/images/phone-call.svg" alt="" />
                     </div>
-                    <span>trankhang@gmail.com</span>
+                    <span>vutran.dv@gmail.com</span>
                   </div>
                   <div class="container__contact__info">
                     <div class="container__contact__info--img">
                       <img src="assets/images/planet-earth.svg" alt="" />
                     </div>
-                    <span>www.newbiedev.com</span>
+                    <span>https://travel-ducvu0609.vercel.app/</span>
                   </div>
                 </div>
               </div>
@@ -133,9 +133,9 @@ footer.innerHTML = `
           </div>
           <span class="copyright"
             >Copyright © 2021 By<a
-              href="https://www.facebook.com/trankhang1212/"
+              href="https://www.facebook.com/profile.php?id=100010121469478"
             >
-              Tran_Hoang_Khang</a
+              Tran Duc Vu</a
             ></span
           >
         </div>
